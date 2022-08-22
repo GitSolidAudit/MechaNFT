@@ -8,7 +8,7 @@ contract MECHANFTMINING {
 	uint256[] public REFERRAL_PERCENTS = [50, 30, 10];
 	uint256 constant public PROJECT_FEE = 20;
 	uint256 constant public DEVELOPER_FEE = 30;
-	uint256 constant public PERCENT_STEP = 50;
+	uint256 constant public PERCENT_STEP = 0;
 	uint256 constant public PERCENTS_DIVIDER= 1000;
 	uint256 constant public TIME_STEP = 1 days;
 	
